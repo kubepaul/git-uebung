@@ -1,1 +1,1 @@
-Woche 1 des DevOps-Lernpfads.
+Woche 1 - Anna war hier.
